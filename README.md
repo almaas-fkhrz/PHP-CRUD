@@ -1,6 +1,7 @@
 # PHP-CRUD
 basic crud php with mysql
 
+- copy folder to htdocs
 - open mysql
 - create database db_perpus;
 - use db_perpus;
